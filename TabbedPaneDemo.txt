@@ -1,0 +1,6 @@
+import javax.swing.JFrame;
+import javax.swing.JTabbedPane;
+public class TabbedPaneDemo extends JFrame
+{
+JTabbedPane obj;
+public TabbedPaneDemo extends JFra
